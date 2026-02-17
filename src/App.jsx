@@ -32,7 +32,6 @@ const Home = () => (
     <Team />
     <Testimonials />
     <Blog />
-    <Footer />
   </div>
 );
 function App() {
